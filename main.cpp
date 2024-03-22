@@ -1,4 +1,4 @@
-//g++ video.cpp -o app -lcurl  -lwiringPi  $(pkg-config --cflags --libs opencv)
+//g++ main.cpp -o app -lcurl  -lwiringPi  $(pkg-config --cflags --libs opencv)
 
 
 #include <stdio.h>
